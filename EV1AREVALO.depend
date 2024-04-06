@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712409127 source:c:\users\dell\desktop\lab.pro2\ev1arevalo\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"Cliente.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1712408988 c:\users\dell\desktop\lab.pro2\ev1arevalo\include\fecha.h
+
+1712408988 c:\users\dell\desktop\lab.pro2\ev1arevalo\include\cliente.h
+	<iostream>
+	<string.h>
+	<string.h>
+
+1712408988 c:\users\dell\desktop\lab.pro2\ev1arevalo\include\pago.h
+	"Fecha.h"
+
+1712408988 c:\users\dell\desktop\lab.pro2\ev1arevalo\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1712408988 source:c:\users\dell\desktop\lab.pro2\ev1arevalo\src\cliente.cpp
+	"Cliente.h"
+
+1712409437 source:c:\users\dell\desktop\lab.pro2\ev1arevalo\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string.h>
+
+1712408988 source:c:\users\dell\desktop\lab.pro2\ev1arevalo\src\pago.cpp
+	"Pago.h"
+	"Pago.h"
+
+1712409421 source:c:\users\dell\desktop\lab.pro2\ev1arevalo\src\prestamo.cpp
+	"Prestamo.h"
+
